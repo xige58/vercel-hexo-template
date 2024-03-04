@@ -4,7 +4,7 @@ date: 2024-03-03 22:36:57
 tags:
 ---
 ##下载安装ollama客户端
-[下载地址](https://ollama.com/download）
+[下载地址](https://ollama.com/download)
 
 普通7B版 安装指令：（适合8G显存）
 ```bash
