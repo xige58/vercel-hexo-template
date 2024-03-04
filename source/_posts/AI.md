@@ -21,3 +21,10 @@ $ ollama run gemma:7b-instruct-fp16
 ```bash
 $ ollama run gemma:2b
 ```
+{% codeblock [title] [lang:language] [url] [link text] [additional options] %}
+code snippet
+{% endcodeblock %}
+
+{% code yaml %}
+hello: hexo
+{% endcode %}
